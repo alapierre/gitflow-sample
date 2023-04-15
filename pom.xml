@@ -40,9 +40,6 @@
                         <releaseFinishMessage>Update for next development version @{version}</releaseFinishMessage>
                         <releaseVersionUpdateMessage>Update for next development version @{version}</releaseVersionUpdateMessage>
                     </commitMessages>
-                    <gitFlowConfig>
-                        <developmentBranch>development</developmentBranch>
-                    </gitFlowConfig>
                 </configuration>
             </plugin>
 
